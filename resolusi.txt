@@ -2,3 +2,5 @@ Resolusi:
 - Pergi touring motor
 - Selesaikan Oases Solar
 - Migrasi ke luar negri
+- Qwerty
+- The quick brown fox
