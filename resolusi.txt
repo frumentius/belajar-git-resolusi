@@ -3,4 +3,4 @@ Resolusi:
 - Selesaikan Oases Solar
 - Migrasi ke luar negri
 - The quick brown fox
-- Lorem Ipsum
+- Lorems ipsum dolor sit amet consectetur
